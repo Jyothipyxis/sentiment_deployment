@@ -1,0 +1,13 @@
+{
+ "model_name":"sentence-transformers/all-MiniLM-L6-v2",
+ "mode":"embeddings",
+ "do_lower_case":true,
+ "num_labels":"2",
+ "save_mode":"pretrained",
+ "max_length":"512",
+ "captum_explanation":false,
+ "embedding_name": "sentence-transformers",
+ "FasterTransformer":false,
+ "BetterTransformer":false,
+ "model_parallel":false
+}
